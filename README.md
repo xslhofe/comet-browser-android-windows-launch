@@ -4,6 +4,8 @@
 
 厌倦了传统浏览器的搜索体验？Perplexity正在打造一款由AI驱动的全新浏览器Comet，承诺让你的网络搜索更智能、更高效。无论你是需要快速获取准确答案的研究者，还是希望提升工作效率的普通用户，这款浏览器都可能改变你的上网方式。Android版本预计今年秋季发布，Windows测试版下周就能体验——比你想象的来得更快。
 
+<img width="2044" height="1102" alt="image" src="https://github.com/user-attachments/assets/c5a91504-f66c-4542-9677-4e7cf87791bb" />
+
 ---
 
 ## Comet是什么？为什么值得关注
@@ -22,7 +24,6 @@ Comet最核心的功能当然是Perplexity的AI搜索。但它不会止步于此
 
 想想Perplexity现在已经有的东西：内容发现、金融工具、协作空间Spaces……这些都可能塞进Comet里。听起来野心不小。
 
-![Perplexity在摩托罗拉Razr Ultra上的界面展示](image/73192479.webp)
 
 ## 竞争对手不少，但机会也在
 
